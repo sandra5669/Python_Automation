@@ -40,9 +40,9 @@ print('Composing the Email.....')
 
 SERVER = 'smtp.gmail.com'  #your smtp server
 PORT = 587 #Your port Number
-FROM = 'sandramekkadan@gmail.com'
-TO ='sandra.ms1402@gmail.com'
-PASS = 'Sandra@142002'
+FROM = 'xyz@gmail.com'
+TO ='abc@gmail.com'
+PASS = 'xyz'
 
 #Create msg body
 msg = MIMEMultipart()
